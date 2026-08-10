@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrat-v-onlayn-kazino.github.io
+Sitemap: https://igrat-v-onlayn-kazino.github.io/sitemap.xml
